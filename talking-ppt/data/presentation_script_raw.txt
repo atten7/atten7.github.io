@@ -1,0 +1,134 @@
+--- 슬라이드 1 ---
+Here is the script for Slide 1:
+
+"Hello everyone, my name is Min-Ki Choi, and I'm excited to share with you my journey as a game director. As I look at this picture of a heart, it reminds me that connecting with users is at the core of what I do.
+
+As a game director, my role is not just about creating games, but also about understanding the people who play them. It's about designing experiences that resonate with users and make them feel seen, heard, and valued. And that's exactly what I want to share with you today - how I've learned to navigate this complex process and build a career around it.
+
+So let's start by taking a look at my background... (pause for 5 seconds)
+
+
+--- 슬라이드 2 ---
+Here is the script for Slide 2:
+
+"Slide 2: Why I Chose to be a Game Director"
+
+As I stand here today, I'm often asked what drove me to become a game director. It's a question that gets to the heart of who I am and what I'm passionate about. As you can see from this image of a heart, it's not just about logic or reason – it's about understanding ourselves.
+
+For me, being a game director is about bringing people together to create something amazing. It requires creativity, leadership, and self-understanding. You see, when we're good at something, we often take it for granted. But as I dug deeper into the gaming industry, I realized that success isn't just about technical skills – it's about understanding ourselves and what drives us.
+
+I'm sure many of you have heard of the Myers-Briggs Type Indicator (MBTI). As an INTJ myself, I've come to realize that knowing my strengths and weaknesses has helped me make better decisions in both personal and professional life. It's not just about being introverted or extroverted – it's about understanding how we process information and interact with the world around us.
+
+That's what drives me to be a game director. It's not just about making games – it's about creating experiences that bring people together. And I believe that's what makes this industry so exciting. We get to combine our technical skills, creativity, and leadership abilities to create something truly unique.
+
+In the next slide, we'll explore more about my experiences as a game director and how self-understanding has played a crucial role in my journey."
+
+
+--- 슬라이드 3 ---
+Script for Slide 3:
+
+As I grew older, my fascination with Minecraft only deepened. Around the age of 7, I first discovered this incredible game that allowed me to build and explore in a blocky world. Fast forward to around fifth grade, when I began to develop an interest in servers and plugins. This sparked my curiosity, and I started learning how to develop plugins and set up servers. 
+
+As I delved deeper into the world of programming, my passion for game development only grew stronger. I learned multiple languages, including Python, C, Java, JavaScript, and Kotlin. Initially, my dream was to become a simple game developer, but as I continued to explore the field, I realized that it wasn't just about creating games – it was about being part of something bigger.
+
+I wanted to be more than just a game creator; I wanted to lead and shape the direction of game development itself. And so, I decided to take on the role of a Game Director. This role allows me to not only create new games but also inspire and guide others in their own creative pursuits.
+
+Through my experiences, I've come to understand that being a successful Game Director requires a unique combination of technical skills, creativity, leadership, and self-understanding. And it's this understanding that has driven me to share my story with you today, hoping to inspire and motivate others to pursue their passions just as I have.
+
+
+--- 슬라이드 4 ---
+Script for Slide 4:
+
+"As a game director, my role is to shape the direction of the game by making suggestions on concept, scenario, and system. I'm responsible for planning the overall structure of the game content and managing the entire development process from start to finish. This means I need to be versatile in planning, developing, designing, and many other areas.
+
+As a game director, my day-to-day tasks involve overseeing the entire production process, ensuring that all team members are working towards the same goal. It's a challenging yet rewarding role that requires strong leadership skills, creativity, and self-understanding.
+
+In the next slide, I'll share some insights on how I've developed these skills throughout my career."
+
+
+--- 슬라이드 5 ---
+Script for Slide 5:
+
+Title: What the Gaming Industry Looks For
+
+"As we transition from traditional corporate environments to the gaming industry, we often find ourselves confused about what's truly valued. Many game companies don't prioritize academic credentials or certifications when hiring. Instead, they focus on one thing: a strong portfolio that showcases your work.
+
+What does this mean? It means that having multiple degrees and certificates doesn't necessarily give you an edge in the gaming industry. What matters more is hands-on experience and a portfolio that demonstrates your skills.
+
+So, what do game companies look for? They look for individuals who can back up their claims with tangible evidence of their abilities. This is where self-understanding comes into play.
+
+By understanding our strengths, weaknesses, and passions, we can create a portfolio that truly represents our capabilities. And, in the gaming industry, this is what sets you apart from the rest.
+
+So, let's focus on building a strong portfolio and gaining practical experience. Let's shift our attention away from academic credentials and towards what really matters: showcasing our work to the world."
+
+
+--- 슬라이드 6 ---
+Here is the script for Slide 6:
+
+"As game directors, we often think that our path to this role started with a specific degree or major. But in reality, there isn't always a direct link between being a director and having a related major. Many of us who are game directors today actually come from a development background.
+
+In fact, I found that most game developers start their journey by studying computer science. This makes sense because computer science provides a solid foundation for learning programming languages like Python, C, Java, JS, and Kotlin, which are essential skills for any aspiring game developer.
+
+So, what about those of us who didn't major in computer science? Can we still make it as game directors?
+
+The answer is yes. While having a related degree can be helpful, it's not the only factor that determines your success as a game director. What's more important is understanding yourself and your strengths, as well as developing essential skills like leadership, creativity, and time management.
+
+In my next slide, I'll share some practical tips on how to get started with building your portfolio and networking in the gaming industry."
+
+
+--- 슬라이드 7 ---
+Script for Slide 7:
+
+Hello everyone, as we've discussed earlier, understanding oneself is crucial in pursuing one's passion. Today, I'd like to share with you my experience with the Myers-Briggs Type Indicator, or MBTI.
+
+As you can see from my MBTI profile, I'm an ENTJ-A type. This means that I tend to be a leader, and my strengths include being able to think flexibly and come up with innovative ideas. You'll find that this type of thinking is quite valuable in game development, where creativity and problem-solving are essential skills.
+
+Now, what does this mean for me as a game director? Well, my ENTJ-A personality allows me to naturally take charge and lead teams, which has been incredibly helpful in my career. My ability to think outside the box also helps me come up with unique solutions to complex problems that arise during development.
+
+In fact, I've found that understanding one's MBTI type can be a powerful tool in personal and professional growth. By recognizing your strengths and weaknesses, you can better navigate challenges and make informed decisions about how to invest your time and energy.
+
+As we move forward, I'd like to emphasize the importance of self-awareness in achieving success. Whether it's understanding your MBTI type or identifying your own strengths and weaknesses, taking the time to understand yourself is essential for building a strong portfolio and making meaningful connections in the gaming industry. And that's exactly what I'll be exploring further in my next slides. Thank you for your attention!
+
+
+--- 슬라이드 8 ---
+Here is the script for Slide 8:
+
+---
+
+As I mentioned earlier, self-understanding is crucial in pursuing one's passion. Through various activities and projects, I've been able to develop my skills and interests. Let me share a few examples.
+
+Within our university, I was part of several initiatives that allowed me to explore different aspects of game development. For instance, we conducted a project to investigate the impact of ITS on traffic flow, where we analyzed data using QGIS. It was a great experience in terms of learning to work with geospatial data and presenting our findings.
+
+Additionally, I participated in an AI robotics hackathon, where we used ping-pong robots to create innovative pieces and presented them. Our team even won the competition! These experiences not only honed my technical skills but also helped me develop essential qualities like creativity, teamwork, and communication.
+
+Outside of campus, I've been committed to continuously learning new programming languages such as Python, C, Java, JavaScript, and Kotlin, as well as operating systems like Linux. These efforts have allowed me to expand my skill set and stay up-to-date with the latest trends in the industry.
+
+By participating in these activities and projects, I was able to build a strong foundation that has helped me grow both personally and professionally. This experience has taught me that success in the gaming industry requires not only technical skills but also creativity, leadership, and self-understanding.
+
+---
+
+(Note: The script is approximately 1-2 minutes long.)
+
+
+--- 슬라이드 9 ---
+Here is the script for Slide 9:
+
+"Reflecting on the importance of a portfolio once again, I've come to realize the significance of understanding the nuances between computer science and engineering. Through my research, I gained valuable insights into the differences between these two fields.
+
+As game directors, we often find ourselves at the intersection of art and technology. A strong portfolio not only showcases our technical skills but also demonstrates our ability to think creatively and lead a team. By highlighting our achievements and experiences, we can effectively communicate our value as professionals in the gaming industry.
+
+In my previous career choices, I've seen how a solid understanding of one's strengths and weaknesses has made all the difference. With self-awareness comes the power to make informed decisions about our careers and pursue our passions with conviction. And that, my friends, is what drives innovation in the gaming industry.
+
+As we move forward, let's continue to explore the importance of building a strong portfolio and how it can set us apart as game directors."
+
+
+--- 슬라이드 10 ---
+Here is the script for Slide 10:
+
+"As we've explored throughout this presentation, understanding oneself is crucial to pursuing one's passion in the gaming industry. Today, I want to share with you my personal story on how I discovered my path as a game director.
+
+As you may know, my journey began with a fascination with programming languages like Python and C++. But it wasn't until I took the Myers-Briggs Type Indicator (MBTI) test that I gained valuable insights into my personality type. This self-awareness allowed me to identify areas where I could leverage my strengths and develop new skills.
+
+For instance, as an introverted individual, I realized that I thrive in environments that allow for focused work and creative freedom. This realization helped me tailor my approach to game development, prioritizing tasks that align with my personality type.
+
+The image on this slide symbolizes the importance of self-awareness in our journey. Just like a heart beats with purpose, we must listen to our own inner voice to discover our true passions. In the next slides, I'll share more about how I applied these insights to build a strong portfolio and network within the gaming industry."
