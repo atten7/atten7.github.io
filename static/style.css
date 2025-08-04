@@ -65,29 +65,3 @@ button:hover {
     background-color: #2980b9;
 }
 
-/* 구분선 */
-hr {
-    border: none;
-    border-top: 2px solid #ddd;
-    width: 360px;
-    margin: 50px 0;
-}
-
-/* 링크 스타일 */
-p a {
-    color: #2980b9;
-    text-decoration: none;
-    font-weight: 600;
-}
-
-p a:hover {
-    text-decoration: underline;
-}
-
-/* API 키 저장 메시지 */
-p[style*="color:green"] {
-    font-size: 1.1rem;
-    font-weight: 700;
-    margin-top: 20px;
-    text-align: center;
-}
