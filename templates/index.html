@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>PPTX 업로드</title>
+</head>
+<body>
+    <h1>PPTX 파일 업로드</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="pptx_file" accept=".pptx">
+        <button type="submit">업로드</button>
+    </form>
+
+    {% if show_apikey_input %}
+    <hr>
+    <p>
+        <a href="https://aistudio.google.com/apikey" target="_blank">https://aistudio.google.com/apikey</a><br>
+        <b>위 링크에서 Gemini API 키를 받아서 아래에 입력해주세요.</b>
+    </p>
+    <form action="/set_apikey" method="post">
+        <input type="text" name="apikey" placeholder="API Key를 입력하세요" required>
+        <button type="submit">저장</button>
+    </form>
+    {% endif %}
+
+    {% if apikey_saved %}
+    <p style="color:green;"><b>API Key가 저장되었습니다!</b></p>
+{% endif %}
+
+</body>
+</html>
