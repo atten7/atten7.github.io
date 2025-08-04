@@ -24,10 +24,11 @@ def upload():
         return render_template('index.html', message="업로드 완료!")
     return 'pptx 파일만 업로드 가능합니다.'
 
-
+main(filepath)
 if __name__ == '__main__':
     app.run('0.0.0.0', port=5001, debug=True)
-    main(filepath)
+
+
 
 
 
