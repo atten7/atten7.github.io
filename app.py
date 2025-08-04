@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, url_for, session
+from flask import Flask, render_template, request, redirect, url_for
 import os
 
 app = Flask(__name__)
@@ -13,16 +13,18 @@ def home():
 @app.route('/upload', methods=['POST'])
 def upload():
     if 'pptx_file' not in request.files:
-        return 'No file part'
+        return '파일이 포함되지 않았습니다.'
     file = request.files['pptx_file']
     if file.filename == '':
-        return 'No selected file'
+        return '파일이 선택되지 않았습니다.'
     if file and file.filename.endswith('.pptx'):
         filepath = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
         file.save(filepath)
         return render_template('index.html', message="업로드 완료!")
     return 'pptx 파일만 업로드 가능합니다.'
 
+
 if __name__ == '__main__':
     app.run('0.0.0.0', port=5001, debug=True)
+
 
