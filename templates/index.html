@@ -9,6 +9,7 @@
     <form action="/upload" method="post" enctype="multipart/form-data">
         <input type="file" name="pptx_file" accept=".pptx">
         <button type="submit">업로드</button>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     </form>
 
     {% if show_apikey_input %}
@@ -28,4 +29,5 @@
 {% endif %}
 
 </body>
+
 </html>
