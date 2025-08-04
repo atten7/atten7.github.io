@@ -1,2 +1,9 @@
 Flask
 gunicorn
+Pillow
+torch
+tranfomers
+google-generativeai
+python-pptx
+numpy
+gTTs
