@@ -1,6 +1,9 @@
 from flask import Flask, render_template, request, redirect, url_for
-from main import main
+import sys
 import os
+
+sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
+from main import main
 
 app = Flask(__name__)
 UPLOAD_FOLDER = 'uploads'
@@ -29,6 +32,7 @@ def upload():
 
 if __name__ == '__main__':
     app.run('0.0.0.0', port=5001, debug=True)
+
 
 
 
