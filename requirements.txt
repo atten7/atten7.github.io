@@ -2,7 +2,7 @@ Flask
 gunicorn
 Pillow
 torch
-tranfomers
+transfomers
 google-generativeai
 python-pptx
 numpy
